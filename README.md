@@ -21,3 +21,10 @@ It should produce a running application to visualize entities movement on a boar
       - The entity cannot go back to previous location on next step
   - When Stop button is pressed the app will save the ***n*** last steps that the user set as input.  
 
+  #### Specs Notes
+  - The display grid is 100x100 (i.e. 0<=X<=100; 0<=Y<=100)
+  - There are three supported colors (red, green, blue)
+  - There are three supported entity types (circle, square, triangle)
+  - There are three supported entity sizes (small, medium, large)
+  - Max number of supported entities is 10
+  - JSON input file will be located at executable folder (testing input may vary).
