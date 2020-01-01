@@ -39,3 +39,5 @@ It should produce a running application to visualize entities movement on a boar
   - Entity must remember, at minimum, its last location to prevent moving backwards, or at maximum ***n*** steps.
   - We assume that as a default the app should save, at minimum, its current location at stop.
   
+  
+ 
